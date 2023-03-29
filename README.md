@@ -16,21 +16,15 @@ Saya membuat dokumentasi terkait Data Science dan seputar teknologi di akun sosi
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/icesolace?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
    
----
+#
 
-<div class="g-ytsubscribe" data-channelid="UCoveqUCSIk3JgszrRWBtCqQ" data-layout="default" data-count="default"></div>
-<br/>
-<details open> 
-  <summary><h2>📺 Latest YouTube Videos</h2></summary>
+### 📺 Latest YouTube Videos
 
-  <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
-
-  <!-- prettier-ignore-start -->
-  <!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=6u9BrDaSHJc"><img src="https://ytcards.demolab.com/?id=6u9BrDaSHJc&title=Automatically+Deploy+to+Fly.io+with+GitHub+Actions&lang=en&timestamp=1661864404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312" alt="Automatically Deploy to Fly.io with GitHub Actions" title="Automatically Deploy to Fly.io with GitHub Actions"></a>
-<a href="https://www.youtube.com/watch?v=J7Fm7MdZn_E"><img src="https://ytcards.demolab.com/?id=J7Fm7MdZn_E&title=Hosting+a+Python+Discord+Bot+for+Free+with+Fly.io&lang=en&timestamp=1661708747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=403" alt="Hosting a Python Discord Bot for Free with Fly.io" title="Hosting a Python Discord Bot for Free with Fly.io"></a>
-<a href="https://www.youtube.com/watch?v=0p_eQGKFY3I"><img src="https://ytcards.demolab.com/?id=0p_eQGKFY3I&title=Making+a+Wordle+Clone+Discord+Bot+with+Python+%28Nextcord%29&lang=en&timestamp=1643900217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=2115" alt="Making a Wordle Clone Discord Bot with Python (Nextcord)" title="Making a Wordle Clone Discord Bot with Python (Nextcord)"></a>
-<a href="https://www.youtube.com/watch?v=Mt_Bsj6K9Lw"><img src="https://ytcards.demolab.com/?id=Mt_Bsj6K9Lw&title=Run+Open+Source+Code+in+Seconds+with+GitPod&lang=en&timestamp=1642108413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=578" alt="Run Open Source Code in Seconds with GitPod" title="Run Open Source Code in Seconds with GitPod"></a>
-<a href="https://www.youtube.com/watch?v=xsA5QAkr-04"><img src="https://ytcards.demolab.com/?id=xsA5QAkr-04&title=Custom+Help+Commands+%5B%232%5D+Select+Menus+-+Python+Discord+Bot&lang=en&timestamp=1633051808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1188" alt="Custom Help Commands [#2] Select Menus - Python Discord Bot" title="Custom Help Commands [#2] Select Menus - Python Discord Bot"></a>
-<a href="https://www.youtube.com/watch?v=TzR8At0SFQI"><img src="https://ytcards.demolab.com/?id=TzR8At0SFQI&title=Custom+Help+Commands+%5B%231%5D+Embeds+-+Python+Discord+Bot&lang=en&timestamp=1632947582&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1245" alt="Custom Help Commands [#1] Embeds - Python Discord Bot" title="Custom Help Commands [#1] Embeds - Python Discord Bot"></a>
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Why Linux is ACTUALLY GNU/Linux](https://ytcards.demolab.com/?id=GUsFrtllXs8&title=Why+Linux+is+ACTUALLY+GNU%2FLinux&lang=en&timestamp=1679227210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=35 "Why Linux is ACTUALLY GNU/Linux")](https://www.youtube.com/watch?v=GUsFrtllXs8)
+[![Coding won’t exist in 5 years? You might be right.](https://ytcards.demolab.com/?id=brAwZ5l_fuQ&title=Coding+won%E2%80%99t+exist+in+5+years%3F+You+might+be+right.&lang=en&timestamp=1678982010&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=999 "Coding won’t exist in 5 years? You might be right.")](https://www.youtube.com/watch?v=brAwZ5l_fuQ)
+[![The story behind the name "Linux"](https://ytcards.demolab.com/?id=QjoKwulmS4U&title=The+story+behind+the+name+%22Linux%22&lang=en&timestamp=1678622419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=58 "The story behind the name \"Linux\"")](https://www.youtube.com/watch?v=QjoKwulmS4U)
+[![Tools EVERY Software Engineer Should Know](https://ytcards.demolab.com/?id=D4JkWoUovdo&title=Tools+EVERY+Software+Engineer+Should+Know&lang=en&timestamp=1678375804&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=960 "Tools EVERY Software Engineer Should Know")](https://www.youtube.com/watch?v=D4JkWoUovdo)
+[![Linux almost didn’t exist](https://ytcards.demolab.com/?id=ewr-IKmTiYE&title=Linux+almost+didn%E2%80%99t+exist&lang=en&timestamp=1678021223&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=48 "Linux almost didn’t exist")](https://www.youtube.com/watch?v=ewr-IKmTiYE)
+[![The Making of Linux: The World's First Open-Source Operating System](https://ytcards.demolab.com/?id=E0Q9KnYSVLc&title=The+Making+of+Linux%3A+The+World%27s+First+Open-Source+Operating+System&lang=en&timestamp=1677070808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=693 "The Making of Linux: The World's First Open-Source Operating System")](https://www.youtube.com/watch?v=E0Q9KnYSVLc)
 <!-- END YOUTUBE-CARDS -->
