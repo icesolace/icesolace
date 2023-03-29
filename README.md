@@ -2,7 +2,7 @@
 
 **`ddd`**
 
-Saya membuat dokumentasi terkait Data Science dan seputar teknologi di akun sosial media saya hanya Instagram dan Youtube.
+Saya membuat dokumentasi terkait Data Science dan seputar teknologi di akun sosial media saya pada Instagram dan Youtube saja.
 
 <!-- Social badges section -->
    <p align="left">
