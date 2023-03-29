@@ -1,6 +1,6 @@
 # 🧊 Icesolace
 
-**`ddd`**
+**`Panggil aja Keii`**
 
 Saya membuat dokumentasi terkait Data Science dan seputar teknologi di akun sosial media saya pada Instagram dan Youtube saja.
 
