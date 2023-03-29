@@ -17,7 +17,6 @@ Saya membuat dokumentasi terkait Data Science dan seputar teknologi di akun sosi
    </p>
    
 #
-
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
