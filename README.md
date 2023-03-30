@@ -6,7 +6,7 @@ Saya membuat dokumentasi terkait Data Science dan seputar teknologi di akun sosi
 
 <!-- Social badges section -->
    <p align="left">
-      <a href="https://www.youtube.com/@icesolace_?sub_confirmation=1">
+      <a href="https://www.youtube.com/@icesolace_?sub_confirmation=1?">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCoveqUCSIk3JgszrRWBtCqQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/UCoveqUCSIk3JgszrRWBtCqQ">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCoveqUCSIk3JgszrRWBtCqQ?color=%23E05D44&logo=eye&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
